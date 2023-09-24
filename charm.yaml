@@ -1,0 +1,8 @@
+# +-------------------------------------------------------------------------+
+# | charm.yaml - The Charm Module Manifest                                  |
+# +-------------------------------------------------------------------------+
+
+name:    BadgerBoost
+version: 1.0
+summary: Connect BadgerBoost to your existing site
+binding: \BadgerBoost\Connect\Connect
